@@ -1,0 +1,11 @@
+- section_name: "Rotli"
+  ingredients:
+    - ingredient: "durum atta (flour)"
+      amount: 1.0
+      unit: "g"
+    - ingredient: "water, room temperature"
+      amount: 0.72
+      unit: "g"
+    - ingredient: "vegetable oil"
+      amount: 0.08
+      unit: "g"
