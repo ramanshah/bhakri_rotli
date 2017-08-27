@@ -1,0 +1,14 @@
+- section_name: "Baakri"
+  ingredients:
+    - ingredient: "durum atta (flour)"
+      amount: 1.0
+      unit: "g"
+    - ingredient: "water, room temperature"
+      amount: 0.46
+      unit: "g"
+    - ingredient: "vegetable oil"
+      amount: 0.039
+      unit: "g"
+    - ingredient: "salt"
+      amount: 0.0155
+      unit: "g"
