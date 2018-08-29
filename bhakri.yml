@@ -4,11 +4,11 @@
       amount: 1.0
       unit: "g"
     - ingredient: "water, room temperature"
-      amount: 0.46
+      amount: 0.48
       unit: "g"
     - ingredient: "vegetable oil"
-      amount: 0.039
+      amount: 0.065
       unit: "g"
     - ingredient: "salt"
-      amount: 0.0155
+      amount: 0.015
       unit: "g"
